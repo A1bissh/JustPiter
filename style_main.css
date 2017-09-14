@@ -233,7 +233,7 @@ body{
 
 .black_block_rock:hover .text_rock{
   transition: 1s;
-  top: 24%;
+  top: 23.5%;
   background-color: rgba(0, 0, 0, 0.8);
 }
 
